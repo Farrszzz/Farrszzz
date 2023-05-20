@@ -1,5 +1,5 @@
 <h1 align="center">Hi Cukerzzz👋, I'm Naufal Farras</h1>
-<h3 align="center"Suka Singkong Rebus</h3>
+<h3 align="center">Suka Singkong Rebus</h3>
 
 
 <h3 align="left">Connect with me:</h3>
