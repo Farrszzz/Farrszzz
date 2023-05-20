@@ -18,7 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Farrszzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://i.pinimg.com/236x/b7/8b/f4/b78bf4d7d669a5d95691ccb460b42f9a.jpg" width="512px"/>
 
 ---
