@@ -1,7 +1,7 @@
 <h1 align="center">Hi Cukerzzz👋, I'm Naufal Farras</h1>
 
-- ⚡ Fun fact **I'am not Chinese**
-- 
+- ⚡ Fun fact **I'am addict games**
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farrszzz&show_icons=true&locale=en" alt="farrszzz" /></p>
 
 <h3 align="left">Connect with me:</h3>
