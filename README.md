@@ -1,4 +1,4 @@
-<h1 align="center">Hi Cukerzzz👋, I'm Naufal Farras</h1>
+<h1 align="center">Hi Telll👋, I'm Naufal Farras</h1>
 <h3 align="center">Suka Singkong Rebus</h3>
 
 
