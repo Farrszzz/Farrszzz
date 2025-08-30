@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+</p>
+
+---
+
 ## 🌟 About Me
 - 🔭 Currently experimenting with: **Flutter + Firebase** & **Laravel + PHP**  
 - 🤖 Exploring **AI prompting & automation with n8n**  
@@ -81,9 +87,9 @@
 
 ## 🎵 Fun Animation
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:090979&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E00,100:090979&height=120&section=footer" />
 </p>
 
 ---
 
-✨ _“AI is not here to replace me, but to assist me in building better things.”_
+✨ _“AI is not here to replace me, but to assist me in building better things.”_  
