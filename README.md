@@ -1,5 +1,5 @@
 <!-- Typing Text -->
-# 👓 Naufal Farras Wahyuntitof
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Naufal Farras Wahyuntitof</h1>
 
 <p align="center">
   <a href="https://github.com/naufalfarrasw">
