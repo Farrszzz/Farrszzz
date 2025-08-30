@@ -23,20 +23,28 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,laravel,firebase,n8n,figma" /><br/>
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=php,python,html,css,js" /><br/>
-  <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/CorelDraw-46A247?style=for-the-badge&logo=coreldraw&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+**Programming Languages & Frameworks**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 </p>
 
+**Graphic Design & UI/UX Tools**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" width="40" height="40" alt="CorelDraw"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="40" height="40" alt="Inkscape"/>
+</p>
 ---
 
 ## 📺 Latest YouTube Video
