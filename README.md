@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=AI+Prompter+%26+Tech+Explorer;Flutter+%2B+Firebase+Learner;Laravel+%26+PHP+for+Campus+Projects;Exploring+AI+Automation+with+n8n+⚡;Also+a+Graphic+Designer+🎨;Learn+Cyber+Security">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5E00&center=true&vCenter=true&width=650&lines=AI+Prompter+%26+Tech+Explorer;Flutter+%2B+Firebase+Learner;Laravel+%26+PHP+for+Campus+Projects;Exploring+AI+Automation+with+n8n+⚡;Cybersecurity+Learner+🔐;Also+a+Graphic+Designer+🎨">
   </a>
 </p>
 
@@ -14,7 +14,8 @@
 - 🔭 Currently experimenting with: **Flutter + Firebase** & **Laravel + PHP**  
 - 🤖 Exploring **AI prompting & automation with n8n**  
 - 🎨 Experienced in **Graphic Design (CorelDraw, Photoshop, Illustrator, Inkscape)**  
-- 🖌️ Learning **UI/UX with Figma** & **Cyber Security**
+- 🖌️ Learning **UI/UX with Figma**  
+- 🔐 Currently studying **Cybersecurity fundamentals**  
 - 🎯 Goal: Learn, adapt, and let AI assist in building useful projects  
 
 ---
@@ -38,12 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/CorelDraw_logo.png" width="40" height="40" alt="CorelDraw"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" width="40" height="40" alt="CorelDraw"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="40" height="40" alt="Inkscape"/>
 </p>
 
-**Other Tools**  
-`Supabase` • `Docker` • `n8n` • `TensorFlow`
+**Other Tools & Skills**  
+`Supabase` • `Docker` • `n8n` • `TensorFlow` • `Cybersecurity Basics`
 
 ---
 
