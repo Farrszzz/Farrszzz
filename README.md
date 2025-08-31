@@ -6,45 +6,35 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Hi%2C+AI+Prompter+%7C+AI+Automation+(n8n);App+Developer+(Flutter%2C+Kotlin%2C+Laravel);Graphic+Designer+%7C+UI%2FUX+Learner;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ---
 
-## 🚀 About Me
-- 🎯 Fokus saat ini: **AI Automation dengan n8n**  
-- 📱 Pengalaman membuat aplikasi:  
-  - POS dengan **Flutter + Firebase**  
-  - List Obat Pertanian dengan **Kotlin + Firebase**  
-  - Beberapa project kuliah dengan **Laravel**  
-- 🎨 **Graphic Designer** menggunakan: CorelDraw, Photoshop, Illustrator, Inkscape  
-- 🎨 Belajar **UI/UX** dengan: Figma  
-- 🛡️ Sedang belajar **Cyber Security** untuk mengembangkan skill baru  
-- 🤖 Lebih nyaman disebut **AI Prompter** karena terbiasa memanfaatkan AI untuk coding & ide kreatif  
+I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universitas 17 Agustus 1945 Surabaya with a strong passion for technology, cybersecurity, and design. My journey began in digital design—creating posters, banners, and freelance projects—which sharpened my creative and problem-solving skills. Over time, I expanded my focus to cybersecurity and artificial intelligence, aiming to merge creativity with advanced technology. I aspire to grow as a future AI engineer and tech enthusiast, delivering solutions that are both innovative and impactful.  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Programming Languages & Frameworks**  
+## 🧰 Languages and Tools
+ 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30" height="30" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30" height="30" alt="Illustrator"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" width="30" height="30" alt="CorelDraw"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="30" height="30" alt="Inkscape"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+
 </p>
 
-**Graphic Design & UI/UX Tools**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" width="40" height="40" alt="CorelDraw"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="40" height="40" alt="Inkscape"/>
-</p>
 ---
 
 ## 📺 Latest YouTube Video
@@ -64,7 +54,6 @@
     <a href="https://www.youtube.com/@titoppppp?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrPz4O8SdUTEDZF7NC-_2lQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 </p>
-
 
 ---
 
