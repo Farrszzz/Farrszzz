@@ -40,13 +40,13 @@ I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universit
 ## 📺 Latest YouTube Video
 <p align="center">
 <a href="https://www.youtube.com/watch?v=r72dAJoDZes">
-  <img src="https://ytcards.demolab.com/?id=r72dAJoDZes&title=IoT+Penyiram+Tanaman+[Manual+dan+Automatis]+Tugas+Kelompok&lang=id&timestamp=1672502400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=500" alt="Video 1"/>
+  <img src="https://ytcards.demolab.com/?id=r72dAJoDZes&title=IoT+Penyiram+Tanaman+[Manual+dan+Automatis]+Tugas+Kelompok&lang=id&timestamp=1672502400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=101" alt="Video 1"/>
 </a>
 <a href="https://www.youtube.com/watch?v=GRKmeZzhNak">
-  <img src="https://ytcards.demolab.com/?id=GRKmeZzhNak&title=ETS+|+Pengembangan+Aplikasi+Bergerak+(Nota+Pembelian)&lang=id&timestamp=1672602400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=500" alt="Video 2"/>
+  <img src="https://ytcards.demolab.com/?id=GRKmeZzhNak&title=ETS+|+Pengembangan+Aplikasi+Bergerak+(Nota+Pembelian)&lang=id&timestamp=1672602400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=5644" alt="Video 2"/>
 </a>
 <a href="https://www.youtube.com/watch?v=qEKlDexBj_0">
-  <img src="https://ytcards.demolab.com/?id=qEKlDexBj_0&title=Pengembangan+Aplikasi+Bergerak+||+EAS&lang=id&timestamp=1672702400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=500" alt="Video 3"/>
+  <img src="https://ytcards.demolab.com/?id=qEKlDexBj_0&title=Pengembangan+Aplikasi+Bergerak+||+EAS&lang=id&timestamp=1672702400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=8173" alt="Video 3"/>
 </a>
 </p>
 
