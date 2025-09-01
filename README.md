@@ -32,6 +32,8 @@ I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universit
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" width="30" height="30" alt="CorelDraw"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="30" height="30" alt="Inkscape"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/n8n/E4465C" alt="n8n" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="30" height="30"/>
 
 </p>
 
