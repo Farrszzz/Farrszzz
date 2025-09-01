@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/naufalfarrasw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Hi%2C+AI+Prompter+%7C+AI+Automation+(n8n);App+Developer+(Flutter%2C+Kotlin%2C+Laravel);Graphic+Designer+%7C+UI%2FUX+Learner;Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Hi%2C+I'am+AI+Prompter+%7C+AI+Automation+(n8n);App+Developer+(Flutter%2C+Kotlin%2C+Laravel);Graphic+Designer+%7C+UI%2FUX+Learner;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
