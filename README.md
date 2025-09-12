@@ -7,17 +7,24 @@
   </a>
 </p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>
 
 ---
 
 I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universitas 17 Agustus 1945 Surabaya with a strong passion for technology, cybersecurity, and design. My journey began in digital design—creating posters, banners, and freelance projects—which sharpened my creative and problem-solving skills. Over time, I expanded my focus to cybersecurity and artificial intelligence, aiming to merge creativity with advanced technology. I aspire to grow as a future AI engineer and tech enthusiast, delivering solutions that are both innovative and impactful.  
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/naufalfarrasw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/naufalfarraswt"><img src="https://img.shields.io/badge/Instagram-FF5E00?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:the.naufalfarras03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@titoppppp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
 ---
 
 ## 🧰 Languages and Tools
  
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" alt="Kotlin"/>
@@ -42,10 +49,10 @@ I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universit
 ## 📺 Latest YouTube Video
 <p align="center">
 <a href="https://www.youtube.com/watch?v=r72dAJoDZes">
-  <img src="https://ytcards.demolab.com/?id=r72dAJoDZes&title=IoT+Penyiram+Tanaman+[Manual+dan+Automatis]+Tugas+Kelompok&lang=id&timestamp=1672502400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=101" alt="Video 1"/>
+  <img src="https://ytcards.demolab.com/?id=r72dAJoDZes&title=IoT+Penyiram+Tanaman+[Manual+dan+Automatis]+Tugas+Kelompok&lang=id&timestamp=1725148800&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=101" alt="Video 1"/>
 </a>
 <a href="https://www.youtube.com/watch?v=GRKmeZzhNak">
-  <img src="https://ytcards.demolab.com/?id=GRKmeZzhNak&title=ETS+|+Pengembangan+Aplikasi+Bergerak+(Nota+Pembelian)&lang=id&timestamp=1672602400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=5644" alt="Video 2"/>
+  <img src="https://ytcards.demolab.com/?id=GRKmeZzhNak&title=ETS+|+Pengembangan+Aplikasi+Bergerak+(Nota+Pembelian)&lang=id&timestamp=1725148800&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=5644" alt="Video 2"/>
 </a>
 <a href="https://www.youtube.com/watch?v=qEKlDexBj_0">
   <img src="https://ytcards.demolab.com/?id=qEKlDexBj_0&title=Pengembangan+Aplikasi+Bergerak+||+EAS&lang=id&timestamp=1672702400&background_color=2e3440&title_color=ffffff&stats_color=ffffff&width=250&duration=8173" alt="Video 3"/>
@@ -59,20 +66,11 @@ I’m Naufal Farras Wahyuntitof, an Informatics Engineering student at Universit
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Support Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farrszzz&show_icons=true&theme=tokyonight" alt="stats graph" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrszzz&theme=tokyonight" alt="streak graph" height="150"/>
+  <a href="https://tako.id/naufalfarrasw">
+    <img src="https://img.shields.io/badge/Dukung%20Saya%20di-Tako-FF7F50?style=for-the-badge&logo=heart&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naufalfarrasw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/naufalfarraswt"><img src="https://img.shields.io/badge/Instagram-FF5E00?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:the.naufalfarras03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@titoppppp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
